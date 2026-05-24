@@ -23,7 +23,7 @@ handling and a clean error tree.
 ## Install
 
 ```
-pip install shellexpand
+python -m pip install -e .
 ```
 
 ## Quick reference
